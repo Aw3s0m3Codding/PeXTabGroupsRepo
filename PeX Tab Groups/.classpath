@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="D:/BuildTools/spigot-1.13.2.jar"/>
+	<classpathentry kind="lib" path="D:/BuildTools/PermissionsEx-1.23.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

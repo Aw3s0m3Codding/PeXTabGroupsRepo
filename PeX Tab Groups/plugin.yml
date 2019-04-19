@@ -1,3 +1,6 @@
 name: PexTab
-main: com.github.Aw3s0m3Codding.PeXTabGroupsRepo.Main
+main: com.github.Aw3s0m3Codding.PeXTabGroupsRepo.Main.Main
 version: 1.0
+commands:
+   pt:
+      description: PexTab info command.
